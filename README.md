@@ -5,4 +5,5 @@
 ####2.启动引导页第三方库 
 * MatthewYork/MYBlurIntroductionView
 
-####3.待续
+####3.处理富文本的第三方库
+* https://github.com/nicolasgoutaland/GONMarkupParser
